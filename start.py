@@ -30,3 +30,16 @@ print(list)
 
 list.clear()
 print(list)
+
+
+
+w = {1, 7, 8, 8, 5, 6,3, 4, 1, 1, 9, 7}  #Unordered collecion of elements
+print(w)
+ 
+e = [5, 7, 8, 9, 6, 3, 4, 5, 6, 2, 3]
+print(e)
+
+print(e[3:7:1])
+
+print(e[0:7:2])
+
